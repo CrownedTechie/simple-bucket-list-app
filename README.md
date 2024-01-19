@@ -21,9 +21,9 @@ This is a common tool that allows users to write down their goals, experiences o
 
 ## Technologies Used: 
 ---
-+HTML
-+CSS
-+Vanilla JavaScript
++ HTML
++ CSS
++ Vanilla JavaScript
 
 ## Live Site Link
 ---
